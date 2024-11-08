@@ -1,46 +1,85 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="全日本テニス選手権　ダブルス決勝"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「全日本テニス選手権　ダブルス決勝」[l][r]
 
-メロスは激怒した。[l][r]
+今、全日本テニス選手権のダブルス決勝でマッチポイントを握っている[l][r]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+次のポイントを取り、勝つことができたら日本１になれる。[l][r]
 
-(中略)[l][r]
+しかし、逆に落としてしまったら、流れが相手に渡ってしまい負けてしまうだろう[l][r]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
+アドサイドの僕のサーブである。相手は左利き、どこに打つ...[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
+[link target=*tag_stay] →Iフォーメーションからワイドにスピンサーブを打ちステイ [endlink][r]
+[link target=*tag_chage] →Iフォーメーションからセンターにスライスサーブを打ちチェンジ [endlink][r]
 [s]
 
-*tag_sleep
+*tag_stay
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=lose1.jpg time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+相手が左利きであることを忘れており、跳ねるスピンサーブは相手の強烈なフォアハンドによりストレートに沈められた[l][r]
+
+これにより流れが相手に渡り敗北した[r]
+
 
 【 BAD END 】[l][cm]
 
 [jump target=*start]
 
-*tag_run
 
-[bg storage=run.jpg time=500]
+
+
+
+*tag_change 
+
+[bg storage=change.jpg time=500]
 
 [cm]
-メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
+僕が打ったスライスサーブは相手のバックハンド側に横に変化しながら入り、相手は苦しそうにリターンしてきた[l][r]
+
+チェンジのサインをあらかじめ出しておいたおかげで前衛のペアがボレーで攻撃してくれた。[l][r]
+
+次に僕がとるべき行動は...
+
+[link target=*tag_attack] →防御はせずに僕もボレーに出て攻撃に参加するためにネットに詰める [endlink][r]
+[link target=*tag_defence] →相手のカウンターに備えて動かない [endlink][r]
+[s]
+
+
+*tag_attack
+[cm]
+
+[bg storage=win.jpg time=500]
+
+ダブルスで大事なことはペアで同じことをすることである。[l][r]
+一緒に攻撃したことにより攻め切ってポイントを獲得し、見事優勝した。[r]
 
 【 GOOD END 】[l][cm]
 
 [jump target=*start]
+
+
+*tag_defence
+
+[cm]
+
+[bg storage=lose2.jpg time=500]
+
+ダブルスで大事なことはペアで同じことをすることである。[l][r]
+中途半端な行動をとったことにより、攻めきれずにポイントを落としてしまった。[l][r]
+これにより流れが相手に渡り敗北した[r]
+
+
+【 BAD END 】[l][cm]
+
+[jump target=*start]
+
+
