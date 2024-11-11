@@ -16,7 +16,7 @@
 アドサイドの僕のサーブである。相手は左利き、どこに打つ...[l][r]
 
 [link target=*tag_stay] →Iフォーメーションからワイドにスピンサーブを打ちステイ [endlink][r]
-[link target=*tag_chage] →Iフォーメーションからセンターにスライスサーブを打ちチェンジ [endlink][r]
+[link target=*tag_change] →Iフォーメーションからセンターにスライスサーブを打ちチェンジ [endlink][r]
 [s]
 
 *tag_stay
@@ -55,6 +55,7 @@
 
 
 *tag_attack
+
 [cm]
 
 [bg storage=win.jpg time=500]
