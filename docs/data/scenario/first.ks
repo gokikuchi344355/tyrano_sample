@@ -15,8 +15,8 @@
 
 アドサイドの僕のサーブである。相手は左利き、どこに打つ...[l][r]
 
-[link target=*tag_stay] →[選択肢１]Iフォーメーションからワイドにスピンサーブを打ちステイ [endlink][r]
-[link target=*tag_change] →[選択肢２]Iフォーメーションからセンターにスライスサーブを打ちチェンジ [endlink][r]
+[link target=*tag_stay] →（選択肢１）Iフォーメーションからワイドにスピンサーブを打ちステイ [endlink][r]
+[link target=*tag_change] →（選択肢２）Iフォーメーションからセンターにスライスサーブを打ちチェンジ [endlink][r]
 [s]
 
 *tag_stay
@@ -49,8 +49,8 @@
 
 次に僕がとるべき行動は...[l][r]
 
-[link target=*tag_attack] →[選択肢１]防御はせずに僕もボレーに出て攻撃に参加するためにネットに詰める [endlink][r]
-[link target=*tag_defence] →[選択肢２]相手のカウンターに備えて動かない [endlink][r]
+[link target=*tag_attack] →（選択肢１）防御はせずに僕もボレーに出て攻撃に参加するためにネットに詰める [endlink][r]
+[link target=*tag_defence] →（選択肢２）相手のカウンターに備えて動かない [endlink][r]
 [s]
 
 
